@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg1.jpg",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/drawable-mdpi/bg1.jpg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_02.jpg",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/drawable-mdpi/bg_02.jpg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg.jpg",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/drawable-mdpi/bg.jpg"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/bg_01.jpg",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/drawable-mdpi/bg_01.jpg"
+    }
+]

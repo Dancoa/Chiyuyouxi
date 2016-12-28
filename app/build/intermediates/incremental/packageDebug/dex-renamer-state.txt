@@ -1,0 +1,7 @@
+#Wed Dec 28 22:44:28 CST 2016
+base.0=/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3592b3be16679360db7fa61e627d6efc991b1411
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a74565e1827ef6273a1d77cc989068e66a719a7/classes.dex
+base.1=/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6a74565e1827ef6273a1d77cc989068e66a719a7
+file.0=/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3592b3be16679360db7fa61e627d6efc991b1411/classes.dex

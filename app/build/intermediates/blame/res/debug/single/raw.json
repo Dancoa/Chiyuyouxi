@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/shoot.mp3",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/shoot.mp3"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/explosion.mp3",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/explosion.mp3"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/button.wav",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/button.wav"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/explosion3.wav",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/explosion3.wav"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/get_goods.wav",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/get_goods.wav"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/bigexplosion.wav",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/bigexplosion.wav"
+    },
+    {
+        "merged": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/build/intermediates/res/merged/debug/raw/explosion2.wav",
+        "source": "/Users/apple/Desktop/Dayuchixiaoyu-master/app/src/main/res/raw/explosion2.wav"
+    }
+]
